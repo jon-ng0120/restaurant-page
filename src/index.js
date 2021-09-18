@@ -1,6 +1,5 @@
 `use strict`
 
-import 'style.css';
 
 const homeTab = document.querySelector('#home-tab');
 const menuTab = document.querySelector('#menu-tab');
